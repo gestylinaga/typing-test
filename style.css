@@ -71,3 +71,8 @@ p {
 .bright { color: var(--fg0); }
 .dull { color: var(--bg4); }
 .wrong { color: var(--red1); }
+
+a {
+  color: var(--blue1);
+  text-decoration: none;
+}

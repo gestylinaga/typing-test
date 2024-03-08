@@ -12,7 +12,8 @@ Online typing test
   - incorrect letters in red
     - incorrect space should be red `_`underscore for visibility
 - functionality:
-    - text as `.json`
+    - [x] text as `.json`
+      - [ ] populate `text.json`, remove filler text
     - 80 character lines?
       - should line break in between words
   - backspace function
